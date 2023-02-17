@@ -6,10 +6,10 @@ In this article, I tested it in my own common environment, and it's **really fas
 
 The bar chart shows that Polars takes 1/4 or even less time than Pandas for common operations:
 
-![result plot]("res/result.png")
+![result plot](res/result.png)
 
 Detailed table:
-![result table]("res/table.jpg")
+![result table](res/table.jpg)
 
 # Test Method
 
